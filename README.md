@@ -38,10 +38,11 @@
 <h4>Back-end<h4>
   <img src="https://icongr.am/devicon/java-original.svg?size=100&color=currentColor" width="80px">
   <img src="https://icongr.am/devicon/nodejs-original.svg?size=100&color=currentColor" width="80px">
+    <img src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" width="80px">
+
   
 <h4>Banco de dados<h4>
   <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=100&color=currentColor" width="80px">
-  <img src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" width="80px">
   <img src="https://i0.wp.com/journalxtra.com/wp-content/uploads/2013/10/phpMyAdmin-Logo.png?ssl=1" width="80px">
    
  <h4>Automação de Testes<h4>
