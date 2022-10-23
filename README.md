@@ -90,7 +90,7 @@
   <a href="https://www.linkedin.com/in/leonardo-alves-5314a0248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://www.linkedin.com/in/leonardo-alves-5314a0248/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://www.linkedin.com/in/leonardo-alves-5314a0248/" target="_blank"><img src="https://img.shields.io/badge/-Glassdoor-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://www.linkedin.com/in/leonardo-alves-5314a0248/" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://youtube.com/channel/UC1d18NjFyWUt1sUhEPgVIsg" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://www.linkedin.com/in/leonardo-alves-5314a0248/" target="_blank"><img src="https://img.shields.io/badge/-TikTok-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       <a href="mailto:contato.diahelp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
