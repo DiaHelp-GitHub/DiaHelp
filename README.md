@@ -1,9 +1,9 @@
 <div align="center">
-<img src="[imagens/LogoSVG.svg](https://media.discordapp.net/attachments/1015349601852739677/1033427933873844335/WhatsApp_Image_2022-10-22_at_14.08.19_1.jpeg)" width="500px">
+<img src="https://media.discordapp.net/attachments/1015349601852739677/1033427933873844335/WhatsApp_Image_2022-10-22_at_14.08.19_1.jpeg" width="500px">
 </div>
 <br>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=FF6F29&center=true&vCenter=true&lines=Sua+Limpeza+mais+valorizada+e+segura.">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=32b9a6&center=true&vCenter=true&lines=Sua+limpeza+mais+valorizada+e+segura.">
 <!-- https://readme-typing-svg.herokuapp.com?font=Poppins&color=FF6F29&center=true&vCenter=true&lines=Sua+Limpeza+mais+valorizada+e+segura.+- -->
 </div>
 <br>
@@ -26,32 +26,30 @@
 <br>
 <div align="center">
   
-<h4>:small_orange_diamond: Front-end<h4>
+<h4>Front-end<h4>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="80px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="80px">
   <img src="https://icongr.am/devicon/javascript-original.svg?size=100&color=currentColor" width="80px">
   <img src="https://icongr.am/devicon/react-original.svg?size=100&color=000000" width="80px">
-
- 
   
-<h4>:small_orange_diamond: Back-end<h4>
+<h4>Back-end<h4>
   <img src="https://icongr.am/devicon/java-original.svg?size=100&color=currentColor" width="80px">
   <img src="https://icongr.am/devicon/nodejs-original.svg?size=100&color=currentColor" width="80px">
   
-<h4>:small_orange_diamond: Banco de dados<h4>
+<h4>Banco de dados<h4>
   <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=100&color=currentColor" width="80px">
   <img src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" width="80px">
   <img src="https://i0.wp.com/journalxtra.com/wp-content/uploads/2013/10/phpMyAdmin-Logo.png?ssl=1" width="80px">
    
- <h4>:small_orange_diamond: Automação de Testes<h4>
+ <h4>Automação de Testes<h4>
   <img src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" width="80px">
-  <img src="   https://img.crx4chrome.com/b0/b8/79/mooikfkahbdckldjjndioackbalphokd-logo-20200319.png" width="80px">
+  <img src="https://img.crx4chrome.com/b0/b8/79/mooikfkahbdckldjjndioackbalphokd-logo-20200319.png" width="80px">
 
- <h4>:small_orange_diamond: Ferramentas<h4>
+ <h4>Ferramentas<h4>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="80px">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" width="80px">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="80px">
-   <img src="[https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg](https://icons8.com/icon/nBeuei22ZvUb/canva)" width="80px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" width="80px">
+  <img src="https://user-images.githubusercontent.com/116470161/197369100-b34731e4-1d73-4ec8-a073-fd9e6e6fb281.png" width="80px">
+  <img src="https://th.bing.com/th/id/OIP.suNy2e6DY-dAg08IGK4K9AHaHa?pid=ImgDet&rs=1" width="80px">
 
  
  </div>
@@ -60,7 +58,7 @@
 
 <h3 align="center">:arrow_double_up: Sobre nós</h3>
 <br>
-<div align="center"><pA falta de visbilidade e conciliação dos direitos dos profissionais da limpeza é visível e preocupante, muitas vezes não possuem a noção de informações diante do mercado de trabalho, sendo tratados mal ou em condições ruins para exercer seu serviço, então a DiaHlp surgiu com a solução gerada através de uma plataforma que busque informar, gantir e ajudar o profissional da limpeza através de uma integração profssional direta com pessoas e empresas parceiras com a possibilidade de contratação.</p></div>
+<div align="center"><p>A falta de visbilidade e conciliação dos direitos dos profissionais da limpeza é visível e preocupante, muitas vezes não possuem a noção de informações diante do mercado de trabalho, sendo tratados mal ou em condições ruins para exercer seu serviço, então a DiaHlp surgiu com a solução gerada através de uma plataforma que busque informar, gantir e ajudar o profissional da limpeza através de uma integração profssional direta com pessoas e empresas parceiras com a possibilidade de contratação.</p></div>
 
 ##
 
