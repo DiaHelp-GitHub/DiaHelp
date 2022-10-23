@@ -1,7 +1,7 @@
 
 
   <div align="center">
-<img src="https://media.discordapp.net/attachments/1015349601852739677/1033427933873844335/WhatsApp_Image_2022-10-22_at_14.08.19_1.jpeg" width="500px">
+<img src="https://media.discordapp.net/attachments/1015349601852739677/1033585100975251456/d4f2bf62-2d26-49b1-ac6f-a723796eba57.jpg?width=446&height=422" width="500px">
 </div>
   
 <br>
@@ -65,17 +65,17 @@
 
 ##
 
-<h3 align="center">:mechanical_arm: Nossa equipe</h3>
+<h3 align="center">:mechanical_arm: Nossa equipe DiaHelp</h3>
 <br>
 <div align="center">
-<a href="https://www.linkedin.com/in/leonardo-alves-5314a0248/"><img src="imagens/Component 10.png" width="200px"></a>
-<a href="https://www.linkedin.com/in/nicolly-evangelista-hernandes-dos-santos/"><img src="imagens/Component 12.png" width="200px"></a>
-<a href="https://www.linkedin.com/in/ester-diaz-viana-dos-santos-803b64249/"><img src="imagens/Component 9 (1).png" width="200px"></a>
-<a href="https://www.linkedin.com/in/stefani-ribeiro-dev/"><img src="imagens/Component 14.png" width="200px"></a>
+<a href="https://www.linkedin.com/in/leonardo-alves-5314a0248/"><img src="https://media.discordapp.net/attachments/1015349601852739677/1033585997063127081/Imagem2.jpg" width="200px"></a>
+<a href="https://www.linkedin.com/in/nicolly-evangelista-hernandes-dos-santos/"><img src="https://media.discordapp.net/attachments/1015349601852739677/1033586024686813345/Imagem1.jpg" width="200px"></a>
+<a href="https://www.linkedin.com/in/ester-diaz-viana-dos-santos-803b64249/"><img src="https://media.discordapp.net/attachments/1015349601852739677/1033585996824059934/Imagem3.jpg" width="200px"></a>
+<a href="https://www.linkedin.com/in/stefani-ribeiro-dev/"><img src="https://media.discordapp.net/attachments/1015349601852739677/1033585996593381476/Imagem4.jpg" width="200px"></a>
 <br>
-<a href="https://www.linkedin.com/in/núbia-reis-005b92207/"><img src="imagens/Component 22.png" width="200px"></a>
-<a href="https://www.linkedin.com/in/ana-c-9638b21aa/"><img src="imagens/Component 20.png" width="200px"></a>
-<a href="https://www.linkedin.com/in/guilherme-roncon-gonçalves/"><img src="imagens/Component 19.png" width="200px"></a>
+<a href="https://www.linkedin.com/in/núbia-reis-005b92207/"><img src="https://media.discordapp.net/attachments/1015349601852739677/1033585995947458622/Imagem7.jpg" width="200px"></a>
+<a href="https://www.linkedin.com/in/ana-c-9638b21aa/"><img src="https://media.discordapp.net/attachments/1015349601852739677/1033585996157165618/Imagem6.jpg" width="200px"></a>
+<a href="https://www.linkedin.com/in/guilherme-roncon-gonçalves/"><img src="https://media.discordapp.net/attachments/1015349601852739677/1033587468890558534/Imagem8.jpg" width="200px"></a>
 </div>
 
 ##
