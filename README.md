@@ -49,13 +49,16 @@
   <img src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" width="80px">
   <img src="https://img.crx4chrome.com/b0/b8/79/mooikfkahbdckldjjndioackbalphokd-logo-20200319.png" width="80px">
 
- <h4>Ferramentas<h4>
+ <h4>Ferramentas para Auxílio<h4>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="80px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" width="80px">
   <img src="https://user-images.githubusercontent.com/116470161/197369100-b34731e4-1d73-4ec8-a073-fd9e6e6fb281.png" width="80px">
   <img src="https://th.bing.com/th/id/OIP.suNy2e6DY-dAg08IGK4K9AHaHa?pid=ImgDet&rs=1" width="80px">
+   
+   <h4>Comunicação</h4>
   <img src="https://img.icons8.com/3d-fluency/94/null/whatsapp.png" width="80px">
   <img src="https://img.icons8.com/fluency/48/null/discord-logo.png" width="80px">
+  <img src="https://img.icons8.com/color/48/null/microsoft-teams.png" width="80px">
 
  
  </div>
