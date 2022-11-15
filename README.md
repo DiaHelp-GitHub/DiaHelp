@@ -54,6 +54,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" width="80px">
   <img src="https://user-images.githubusercontent.com/116470161/197369100-b34731e4-1d73-4ec8-a073-fd9e6e6fb281.png" width="80px">
   <img src="https://th.bing.com/th/id/OIP.suNy2e6DY-dAg08IGK4K9AHaHa?pid=ImgDet&rs=1" width="80px">
+  <img src="https://img.icons8.com/3d-fluency/94/null/whatsapp.png" width="80px">
+  <img src="https://img.icons8.com/fluency/48/null/discord-logo.png" width="80px">
 
  
  </div>
@@ -88,7 +90,7 @@
 <div> 
   <a href="https://www.instagram.com/diahelp_/" target="_blank"><img src="https://media.discordapp.net/attachments/1019756690767347794/1033892180747624458/icons8-instagram-50.png" width="60px" ></a>
    <a href="https://www.instagram.com/diahelp_/" target="_blank"><img src="https://media.discordapp.net/attachments/1019756690767347794/1033892105401147422/icons8-twitter-50.png" width="60px" ></a>
-  <a href="https://www.linkedin.com/in/leonardo-alves-5314a0248/" target="_blank"><img src="https://media.discordapp.net/attachments/1019756690767347794/1033892232077529211/icons8-linkedin-circled-50.png" width="60px"></a> 
+  <a href="https://www.linkedin.com/company/diahelp-plataforma/" target="_blank"><img src="https://media.discordapp.net/attachments/1019756690767347794/1033892232077529211/icons8-linkedin-circled-50.png" width="60px"></a> 
    <a href="https://www.linkedin.com/in/leonardo-alves-5314a0248/" target="_blank"><img src="https://media.discordapp.net/attachments/1019756690767347794/1033892361404686396/icons8-facebook-50.png"  width="60px"></a> 
    <a href="https://www.linkedin.com/in/leonardo-alves-5314a0248/" target="_blank"><img src="https://media.discordapp.net/attachments/1019756690767347794/1033892104738455624/icons8-glassdoor-a-website-where-current-and-former-employees-anonymously-review-companies-48.png" width="60px" ></a> 
    <a href="https://youtube.com/channel/UC1d18NjFyWUt1sUhEPgVIsg" target="_blank"><img src="https://media.discordapp.net/attachments/1019756690767347794/1033892103736021073/211928_social_youtube_icon.png?width=422&height=422"  width="60px"></a> 
