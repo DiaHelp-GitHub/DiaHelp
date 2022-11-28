@@ -33,11 +33,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="80px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="80px">
   <img src="https://icongr.am/devicon/javascript-original.svg?size=100&color=currentColor" width="80px">
+  <img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" width="100px">
   <img src="https://icongr.am/devicon/react-original.svg?size=100&color=000000" width="80px">
   
 <h4>Back-end<h4>
   <img src="https://icongr.am/devicon/java-original.svg?size=100&color=currentColor" width="80px">
-  <img src="https://icongr.am/devicon/nodejs-original.svg?size=100&color=currentColor" width="80px">
     <img src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" width="80px">
 
   
