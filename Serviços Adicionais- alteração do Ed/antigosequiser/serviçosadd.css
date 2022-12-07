@@ -1,0 +1,166 @@
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;700&display=swap%27);
+*{
+    font-family:"poppins";
+}
+body{
+    background-image: linear-gradient(45deg,#2575A5#45C9F2,); /* igual a top right */
+    background-image: linear-gradient(top right,#45C9F2,#2575A5); /* igual a 45deg */
+    background-image: linear-gradient(90deg,#45C9F2,#2575A5);
+    background-image: linear-gradient(#3FC3B5,#45C9F2,#2575A5);
+         
+
+
+}
+#logo{
+position: relative;
+ margin-left: 1600px;
+        height: 164px;
+        width: 172px;
+        padding: 15px 15px;
+        font-size 18px;
+        line-height: 20px;
+        float: left;
+        position: absolute;
+        
+}
+#titulo{
+    text-align: center;
+}
+#primeiro{
+    font-size 20px;
+   
+}
+#especifico{
+    font-size 20px;
+    text-align: center;
+}
+#iconum{
+position: relative;
+margin-left: 0px;
+height: 30px;
+width: 30px;
+float: left;
+
+
+}
+
+.titulo{
+    text-align: center;
+    font-family:"poppins";
+    font-size 45px;
+    color:#2575A5;
+}  
+.adicionais .caixinha-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap:1.5rem;
+    background-image: linear-gradient(45deg,#2575A5#45C9F2,); /* igual a top right */
+background-image: linear-gradient(top right,#45C9F2,#2575A5); /* igual a 45deg */
+background-image: linear-gradient(90deg,#45C9F2,#2575A5);
+background-image: linear-gradient(#3FC3B5,#45C9F2,#2575A5);
+  
+ 
+}
+
+
+#adicione{
+position: relative;
+margin-left: 80px;
+width: 100px;
+line-height: 90px;
+float: left;
+position: absolute;
+}
+
+.adicionais .caixinha-container .caixinha{
+    flex:1 1 30rem;
+    caixinha-shadow: 0 .5rem 1.5rem rgba(8, 34, 30, 0.1);
+    border-radius: .5rem;
+    border:.1rem solid rgba(0,0,0,.1);
+    position: relative;    
+}
+
+.adicionais .caixinha-container .caixinha .discount{
+    position: absolute;
+    top:1rem; left:1rem;
+    padding:.7rem 1rem;
+    font-size 2rem;
+    color:var(--pink);
+    background:rgba(170, 0, 0, 0.05);
+    z-index: 1;
+    border-radius: .5rem;
+}
+
+.adicionais .caixinha-container .caixinha .image{
+    position: relative;
+    text-align: center;
+    overflow:hidden;
+    border-radius: 50%;
+}
+
+.adicionais .caixinha-container .caixinha .image img{
+    height:25rem;
+    border-radius: 50%;
+}
+
+.adicionais .caixinha-container .caixinha:hover .image img{
+    transform: scale(1.1);
+   
+}
+
+.adicionais .caixinha-container .caixinha .image .icons{
+    position: absolute;
+    bottom:-7rem; left:0; right:0;
+    display: flex;
+    border-radius: 50%;
+}
+
+.adicionais .caixinha-container .caixinha:hover .image .icons{
+    bottom:0;
+}
+
+.adicionais .caixinha-container .caixinha .image .icons a{
+    height: 5rem;
+    line-height: 5rem;
+    font-size 2rem;
+    width:50%;
+    background:var(--pink);
+    color:rgb(0, 127, 142);
+}
+
+.adicionais .caixinha-container .caixinha .image .icons .cart-btn{
+    border-left: .1rem solid rgb(0, 127, 142);
+    border-right: .1rem solid rgb(0, 127, 142);
+}
+
+.adicionais .caixinha-container .caixinha .image .icons a:hover{
+    background:#333;
+    
+}
+
+.adicionais .caixinha-container .caixinha .beneficios{
+    padding:2rem;
+    text-align: center;
+}
+
+.adicionais .caixinha-container .caixinha .beneficios h3{
+    font-size 2.5rem;
+    color:rgb(0, 0, 0);
+}
+
+.adicionais .caixinha-container .caixinha .beneficios .price{
+    font-size 2.5rem;
+    color:var(--pink);
+    font-weight: bolder;
+    padding-top: 1rem;
+}
+
+.adicionais .caixinha-container .caixinha .beneficios .price span{
+    font-size 1.5rem;
+    color:rgb(255, 0, 0);
+    font-weight: lighter;
+    text-decoration: line-through;
+}
+
+
+
