@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+
+:root, :host {
+--fa-font-solid: normal 900 1em/1 "Font Awesome 6 Free"; }
+
+@font-face {
+font-family: 'Font Awesome 6 Free';
+font-style: normal;
+font-weight: 900;
+font-display: block;
+src: url("../fonts/fa-solid-900.woff2") format("woff2"), url("../fonts/fa-solid-900.ttf") format("truetype"); }
+
+.fas,
+.fa-solid {
+font-family: 'Font Awesome 6 Free';
+font-style: normal;
+font-weight: 900; 
+}
+
+.fa-user::before {
+    content: "\f007"; 
+}
+
+.fa-envelope::before {
+    content: "\f0e0"; 
+}
+
+.fa-lock::before {
+    content: "\f023"; 
+}
+
+.fa-eye::before {
+    content: "\f06e"; 
+}
+
+.fa-eye.slash::before {
+    content: "\f070"; 
+}
+
+.fa-circle-xmark::before {
+    content: "\f057"; 
+}
+
+.fa-circle-check::before {
+    content: "\f058"; 
+  }
