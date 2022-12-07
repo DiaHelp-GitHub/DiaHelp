@@ -38,21 +38,18 @@
   
 <h4>Back-end<h4>
   <img src="https://icongr.am/devicon/java-original.svg?size=100&color=currentColor" width="80px">
-    <img src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" width="80px">
 
   
 <h4>Banco de dados<h4>
   <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=100&color=currentColor" width="80px">
-  <img src="https://i0.wp.com/journalxtra.com/wp-content/uploads/2013/10/phpMyAdmin-Logo.png?ssl=1" width="80px">
    
  <h4>Automação de Testes<h4>
-  <img src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" width="80px">
   <img src="https://img.crx4chrome.com/b0/b8/79/mooikfkahbdckldjjndioackbalphokd-logo-20200319.png" width="80px">
 
  <h4>Ferramentas para Auxílio<h4>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="80px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" width="80px">
-  <img src="https://user-images.githubusercontent.com/116470161/197369100-b34731e4-1d73-4ec8-a073-fd9e6e6fb281.png" width="80px">
+  <img src="https://logos-download.com/wp-content/uploads/2019/06/Notion_App_Logo.png" width="80px">
   <img src="https://th.bing.com/th/id/OIP.suNy2e6DY-dAg08IGK4K9AHaHa?pid=ImgDet&rs=1" width="80px">
    
    <h4>Comunicação</h4>
