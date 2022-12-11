@@ -92,7 +92,6 @@
    <a href="https://www.instagram.com/diahelp_/" target="_blank"><img src="https://media.discordapp.net/attachments/1019756690767347794/1033892105401147422/icons8-twitter-50.png" width="60px" ></a>
   <a href="https://www.linkedin.com/company/diahelp-plataforma/" target="_blank"><img src="https://media.discordapp.net/attachments/1019756690767347794/1033892232077529211/icons8-linkedin-circled-50.png" width="60px"></a> 
    <a href="https://www.linkedin.com/in/leonardo-alves-5314a0248/" target="_blank"><img src="https://media.discordapp.net/attachments/1019756690767347794/1033892361404686396/icons8-facebook-50.png"  width="60px"></a> 
-   <a href="https://www.linkedin.com/in/leonardo-alves-5314a0248/" target="_blank"><img src="https://media.discordapp.net/attachments/1019756690767347794/1033892104738455624/icons8-glassdoor-a-website-where-current-and-former-employees-anonymously-review-companies-48.png" width="60px" ></a> 
    <a href="https://youtube.com/channel/UC1d18NjFyWUt1sUhEPgVIsg" target="_blank"><img src="https://media.discordapp.net/attachments/1019756690767347794/1033892103736021073/211928_social_youtube_icon.png?width=422&height=422"  width="60px"></a> 
    <a href="https://www.linkedin.com/in/leonardo-alves-5314a0248/" target="_blank"><img src="https://cdn.discordapp.com/attachments/1019756690767347794/1033892104348389476/icons8-tiktok-50.png" width="60px"></a> 
       <a href="mailto:contato.diahelp@gmail.com" ><img src="https://user-images.githubusercontent.com/116470161/197425053-7a5159ca-093c-4048-91a7-b2470f496026.png" width="60px"></a>
