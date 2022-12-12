@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Um bot que irá moderar e deixar a sua comunidade segura de um jeito fácil!">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="icon" type="image/x-icon" href="logodadiahelp.png">
+
+  <title>DiaHelp</title>
+</head>
+
+<body>
+  <header class="cabecalho">
+    <img class="cabecalho-imagem" src="imagens/diahelp.png" alt="Logo da DiaHelp">
+    <nav class="cabecalho-menu">
+      <li><a href="inicial.html" class="cabecalho-menu-item">Inicial</a></li>
+      <li><a href="#" class="cabecalho-menu-item">HelpNews</a></li>
+      <li><a href="#" class="cabecalho-menu-item">DiaViews</a></li>
+    
+        <li><a href="#" class="cabecalho-menu-item">Seja DiaHelper</a></li>
+        <li><a href="#" class="cabecalho-menu-item">Seja Parceiro</a></li>
+        <li><a href="#" class="cabecalho-menu-item">Campanhas</a></li>
+
+      <li><a href="#" class="cabecalho-menu-item">Dicas</a></li>
+      <button onclick="darkMode()">Darkmode</button>
+      <button onclick="lightMode()">LightMode</button>
+      <div class="button2" id="button-2">
+
+        <div id="spin"></div>
+        <a href="../Cadastro/cadastro.html">Cadastrar</a>
+      </div>
+      <div class="button3" id="button-3">
+        <div id="spin"></div>
+        <a href="../Login/login.html">Entrar</a>
+      </div>
+      
+    </nav>
+  </header>
+
+  <main class="conteudo">
+<script> function aumentarLetra(){
+  var font = document.getElementById("Conteudo").style.fontSize;
+  font = font.replace("px","");
+  
+  if(font == ""){		 
+          document.getElementById("Conteudo").style.fontSize = "13px";
+  }else{
+    document.getElementById("Conteudo").style.fontSize = (parseInt(font)+1)+"px";
+  }
+}
+
+function diminuirLetra(){
+  var font = document.getElementById("Conteudo").style.fontSize;
+  font = font.replace("px","");
+  
+  if(font == ""){		 
+          document.getElementById("Conteudo").style.fontSize = "11px";
+  }else{
+    document.getElementById("Conteudo").style.fontSize = (parseInt(font)-1)+"px";
+  }
+}</script>
+   <div class="button2" id="button-2">
+
+    <div id="spin"></div>
+    <a onclick="aumentarLetra()">+ Letra</a>
+  </div><br/>
+  <div class="button3" id="button-3">
+    <div id="spin"></div>
+    <a onclick="diminuirLetra()">- Letra</a>
+  </div>
+    <section class="conteudo-principal">
+      <div class="conteudo-principal-escrito">
+        <h1 class="conteudo-principal-escrito-titulo" id="Conteudo">DiaHelp</h1>
+        <h2 class="conteudo-principal-escrito-subtitulo" id="Conteudo">Sua Limpeza mais valorizada e segura</h2>
+        <div class="button" id="button-6">
+          <div id="spin"></div>
+          <a href="#" id="DarkModetext">Vamos Começar</a>
+        </div>   
+      </div>
+
+      <img class="conteudo-principal-imagem"src="./imagens/faxina.png" alt="Imagem da DiaHelp">
+    </section>
+
+    <hr>
+    <section class="conteudo-secundario">
+      <h3 class="conteudo-secundario-titulo" id="DarkModetext">Quem Somos</h3>
+      <br/>
+        <h2 class="conteudo-principal-escrito-subtitulo"id="DarkModetext">A DiaHelp surgiu como um projeto integrador, acessível e sustentável com foco em trazer <br/>mais visibilidade e oportunidades na área dos profissionais de limpeza. Somos um empresa <br/>que busca por um futuro mais igualitário e valorizada, a DiaHelp chegou para trazer uma nova <br/>realidade!</h2>
+        <div class="button" id="button-6">
+          <div id="spin"></div>
+          <a href="https://linktr.ee/diahelp_">Conheça nossa Equipe</a>
+        </div>   
+      </div>
+
+    </section>
+    <hr>
+    <section class="conteudo-secundario">
+      <h3 class="conteudo-secundario-titulo">Categorias</h3>
+      <p>Clique <a href="https://grupoalbatroz.com.br/blog/confira-quais-sao-os-tipos-de-limpeza-de-empresa-existentes-#:~:text=Ao%20todo%2C%20h%C3%A1%20cinco%20categorias%20de%20limpeza%3A%20limpeza,de%20locais%20contaminados.%20Abaixo%20explicaremos%20cada%20uma%20delas.">aqui</a> para ver as principais categorias de limpeza.</p> <p> Abaixo veja algumas subcategorias.</p>
+      <br/><br/>
+       <div class="cards">
+        <div class="card">
+            <a href="https://revistacasaejardim.globo.com/Casa-e-Jardim/Dicas/noticia/2020/04/11-dicas-de-faxina-para-otimizar-limpeza-da-casa.html"><img src="limpeza.png"></a>
+            <h2 class="text1">Limpeza</h2>
+        </div>
+        <div class="card">
+            <a href="https://superlimpa.pt/como-fazer-uma-boa-limpeza-profunda-na-sua-casa/#:~:text=Comece%20por%20limpar%20num%20dia%20no%20m%C3%A1ximo%20duas,baldes%20das%20limpezas%20profundas%20realizadas%20nas%20outras%20divis%C3%B5es."><img  class="img2" src="lavagem.jpg"></a>
+            <h2 class="text2">Lavagem</h2>
+        </div>
+        <div class="card">
+           <a href="https://blog.guardeaqui.com/organizacao-da-casa/#:~:text=Definir%20o%20espa%C3%A7o%20de%20cada%20coisa%20%C3%A9%20o,uma%20%E2%80%9Cregra%E2%80%9D%20e%20ter%20a%20disciplina%20de%20segui-la."><img src="imagens/organizacao.png"></a> 
+            <h2 class="text3">Organização</h2>
+        </div>
+       </div>
+    </section>
+    <hr>
+  </main>
+  </main>
+  <section class="direitos">
+    <h3 class="conteudo-direitos-titulo">Direitos</h3>
+    <br/><br/>
+     <div class="cards-direitos">
+      <div class="card-direitos1">
+        <br/>
+        <a href="https://rafaelmota.adv.br/empregada-domestica-gravida-saiba-seus-direitos-trabalhistas/"><img src="imagens/5569409.jpg"></a>
+          <br/>
+         <h1>Grávidas</h1>
+        </div>
+      <div class="card-direitos2">
+          <a href="https://alvesaraujoadv.jusbrasil.com.br/artigos/451470200/quais-os-direitos-das-diaristas#:~:text=O%20Sal%C3%A1rio%20m%C3%ADnimo%20passou%20de%20R%24%20810%2C00%20para,da%20qual%20se%20trata%20o%20servi%C3%A7o%20em%20quest%C3%A3o."><img src="imagens/Wavy_Bus-36_Single-09.jpg"></a>
+          <h1>Salário Minimo</h1>
+      </div>
+      <div class="card-direitos3">
+        <a href="https://direitosbrasil.com/quais-os-direitos-das-diaristas/#:~:text=A%20diarista%20pode%20trabalhar%20por%20at%C3%A9%20oito%20horas,e%20d%C3%A9cimo%20terceiro.%20Direitos%20das%20diaristas%20ao%20INSS"><img src="imagens/direitos.jpg"></a>
+        <h1>Precificação</h1>
+    </div>
+    <div class="card-direitos4">
+      <a href="https://www.bredaebredaadvogados.com.br/principais-cuidados-na-contratacao-de-diarista/#:~:text=A%20principal%20diferen%C3%A7a%20%C3%A9%20que%2C%20como%20empregado%20dom%C3%A9stico,de%20sua%20responsabilidade%20os%20recolhimentos%20fiscais%20e%20previdenci%C3%A1rios."><img src="imagens/contrato.jpg"></a>
+      <h1>Contratação</h1>
+  </div>
+     </div>
+  </section>
+  <br/>
+  <br/>
+  <hr/>
+  <br/><br/>
+  <main class="DiaViews">
+    <section class="conteudo-principal">
+        <div class="conteudo-principal-escrito">
+          <h1 class="conteudo-principal-escrito-titulo">DiaViews</h1>
+          <h2 class="conteudo-principal-escrito-subtitulo">Aprenda de forma rápida e intuitiva. <br/></h2>
+            <h3 class="conteudo-principal-escrito-subtitulo">Com a DiaViews você descobrirá um novo mundo digital <br/>onde possuirá novos informativos, de maneira prática e eficaz, <br/>tenha novas inobações na área da limpeza</h3>
+          <div class="button" id="button-6">
+            <div id="spin"></div>
+            <a href="#">Vamos Começar</a>
+          </div>   
+        </div>
+        <img class="conteudo-principal-imagem" src="./imagens/tiktok.jpeg" alt="Imagem da DiaHelp">
+    
+    </section>
+    <br/><br/>
+    <section class="conteudo-principal">
+      <div class="conteudo-principal-escrito">
+        <h1 class="conteudo-principal-escrito-titulo">HelpNews</h1>
+        <h2 class="conteudo-principal-escrito-subtitulo">Compartilhe seu Portfólio!<br/></h2>
+          <h3 class="conteudo-principal-escrito-subtitulo">Através da HelpNews você poderá compartilhar, curtir e <br/>comentar postagens que visam a empregabilidade e trazer <br/>mais visbilidade e valorização para os seus serviços! A DiaHelp ficará encarregada de trazer as notícias mais importantes e urgentes do mundo da limpeza especialmente para você!</h3>
+        <div class="button" id="button-6">
+          <div id="spin"></div>
+          <a href="#">Vamos Começar</a>
+        </div>   
+      </div>
+      <img class="conteudo-principal-imagem" src="feed.jpg" alt="Imagem da DiaHelp">
+  
+  </section>
+  </main>
+ <br/>
+ <br/>
+ <hr/>
+ 
+  <footer class="footer-distributed">
+  
+        <div class="footer-left">
+  
+          <h1><span>DiaHelp</span></h1>
+          <h2><span>Sua Limpeza Mais Valorizada E Segura</span></h2>
+  
+          <p class="footer-links">
+            <a href="inicial.html" class="link-1">Inicial</a>
+            <a href="#">DiaViews</a>
+            <a href="#">HelpNews</a>
+            <a href="#">Seja DiaHelper</a>
+                      
+            <a href="#">Seja Parceiro</a> 
+            <a href="#">Campanhas</a>
+            <a href="#">Dicas</a>
+            <a href="../Cadastro/cadastro.html">Cadastrar</a>
+            <a href="../Login/login.html">Entrar</a>
+          </p>
+  <br/>
+          <p class="footer-company-name">Diahelp© 2022</p>
+        </div>
+  
+        <div class="footer-center">
+  <br/>
+          <div>
+            <i class="fa fa-map-marker"></i>
+            <p>Acesse nosso <a href="https://linktr.ee/diahelp_">LinkTree</a> e veja nossas <br/>redes sociais e nosso e-mail para contato</p>
+          </div>
+  <br/><br/>
+  <a href="https://linktr.ee/diahelp_"><img class="rodape-imagem" src="imagens/diahelp.png" alt="Logo da DiaHelp"></a>
+
+  
+  
+        </div>
+  
+        <div class="footer-right">
+  
+          <p class="footer-company-about">
+            <span>Sobre Nós</span>
+            A DiaHelp surgiu com o intuito de trazer uma nova realidade e esperança para os profissionais da área da limpeza. Por um futuro mais igualitário e seguro, seja DiaHelper!         </p>
+  
+          <br/>
+          <br/>
+  
+            <a href="https://www.instagram.com/diahelp_/" target="_blank"><img src="https://media.discordapp.net/attachments/1019756690767347794/1033892180747624458/icons8-instagram-50.png" width="30px" ></a>
+            <a href="https://www.instagram.com/diahelp_/" target="_blank"><img src="https://media.discordapp.net/attachments/1019756690767347794/1033892105401147422/icons8-twitter-50.png" width="30px" ></a>
+           <a href="https://www.linkedin.com/company/diahelp-plataforma/" target="_blank"><img src="https://media.discordapp.net/attachments/1019756690767347794/1033892232077529211/icons8-linkedin-circled-50.png" width="30px"></a> 
+            <a href="https://www.linkedin.com/in/leonardo-alves-5314a0248/" target="_blank"><img src="https://media.discordapp.net/attachments/1019756690767347794/1033892361404686396/icons8-facebook-50.png"  width="30px"></a> 
+            <a href="https://youtube.com/channel/UC1d18NjFyWUt1sUhEPgVIsg" target="_blank"><img src="https://media.discordapp.net/attachments/1019756690767347794/1033892103736021073/211928_social_youtube_icon.png?width=422&height=422"  width="30px"></a> 
+            <a href="https://www.linkedin.com/in/leonardo-alves-5314a0248/" target="_blank"><img src="https://cdn.discordapp.com/attachments/1019756690767347794/1033892104348389476/icons8-tiktok-50.png" width="30px"></a> 
+            <a href="mailto:contato.diahelp@gmail.com" ><img src="https://user-images.githubusercontent.com/116470161/197425053-7a5159ca-093c-4048-91a7-b2470f496026.png" color="white" width="30px"></a>
+         
+           
+  
+     
+  
+        </div>
+  
+      </footer>
+  
+</body>
+
+</html>

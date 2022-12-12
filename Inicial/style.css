@@ -11,14 +11,15 @@ body {
   font-family: 'Cinzel', serif;
 }
 
-.cabecalho {  background-image: linear-gradient(to bottom, #2f9eab, #2f9eab, #2f9eab);
-
+.cabecalho {
+  background-color: #2f9eab;;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: space-around;
   padding: 24px;
   list-style-type: none;
+  background-image: #2f9eab;
 
 }
 
@@ -83,7 +84,8 @@ body {
 .conteudo-principal-escrito {
   display: flex;
   flex-direction: column;
-  gap: 32px;
+  gap: 34px;
+  font-family: 'Poppins';
 }
 
 .conteudo-principal-escrito-titulo {
@@ -92,106 +94,67 @@ body {
   font-size: 64px;
   color: #2f9eab;
   margin-left:100px;
-  margin-top: 100px;
 }
-
-.container {
-  position: relative;
-  width: 320px;
-  margin: 100px auto 0 auto;
-  perspective: 1000px;
+.conteudo-principal-escrito-subtitulodia {
+  font-family: 'Poppins', serif;
+  font-weight: 400;
+  font-size: 25px;
+  color: #000000;
+  margin-left:100px;
 }
-
-.carousel {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  transform-style: preserve-3d; 
-  animation: rotate360 60s infinite forwards linear;
+.conteudo-principal-imagemm {
+  height: 300px;
+  margin-right: 40px;
+  border-radius: 30px;
 }
-.carousel__face { 
-  position: absolute;
-  width: 300px;
-  height: 187px;
-  top: 20px;
-  left: 10px;
-  right: 10px;
-  background-size: cover;
-  box-shadow:inset 0 0 0 2000px rgba(0,0,0,0.5);
-  display: flex;
-  color: #ffffff;
-}
-
-span {
-  margin: auto;
-  font-size: 2rem;
+.conteudo-principal-imagemmission {
+  height: 300px;
+  margin-right: 40px;
+  border-radius: 30px;
 }
 
 
-.carousel__face:nth-child(1) {
-  background-image: url("https://img.freepik.com/vetores-gratis/fundo-gradiente-radial-azul_1095-56.jpg?w=740&t=st=1669689091~exp=1669689691~hmac=cff42f15cc850314192baaffb0c3d484a98d1451846cad157369b91a3acde43b");
-  transform: rotateY(  0deg) translateZ(430px); }
-.carousel__face:nth-child(2) { 
-  background-image: url("https://img.freepik.com/vetores-gratis/fundo-gradiente-radial-azul_1095-56.jpg?w=740&t=st=1669689091~exp=1669689691~hmac=cff42f15cc850314192baaffb0c3d484a98d1451846cad157369b91a3acde43b");
-    transform: rotateY( 40deg) translateZ(430px); }
-.carousel__face:nth-child(3) {
-  background-image: url("https://img.freepik.com/vetores-gratis/fundo-gradiente-radial-azul_1095-56.jpg?w=740&t=st=1669689091~exp=1669689691~hmac=cff42f15cc850314192baaffb0c3d484a98d1451846cad157369b91a3acde43b");
-  transform: rotateY( 80deg) translateZ(430px); }
-.carousel__face:nth-child(4) {
-  background-image: url("https://img.freepik.com/vetores-gratis/fundo-gradiente-radial-azul_1095-56.jpg?w=740&t=st=1669689091~exp=1669689691~hmac=cff42f15cc850314192baaffb0c3d484a98d1451846cad157369b91a3acde43b");
-  transform: rotateY(120deg) translateZ(430px); }
-.carousel__face:nth-child(5) { 
-  background-image: url("https://img.freepik.com/vetores-gratis/fundo-gradiente-radial-azul_1095-56.jpg?w=740&t=st=1669689091~exp=1669689691~hmac=cff42f15cc850314192baaffb0c3d484a98d1451846cad157369b91a3acde43b");
- transform: rotateY(160deg) translateZ(430px); }
-.carousel__face:nth-child(6) { 
-  background-image: url("https://img.freepik.com/vetores-gratis/fundo-gradiente-radial-azul_1095-56.jpg?w=740&t=st=1669689091~exp=1669689691~hmac=cff42f15cc850314192baaffb0c3d484a98d1451846cad157369b91a3acde43b");
- transform: rotateY(200deg) translateZ(430px); }
-.carousel__face:nth-child(7) { 
-  background-image: url("https://img.freepik.com/vetores-gratis/fundo-gradiente-radial-azul_1095-56.jpg?w=740&t=st=1669689091~exp=1669689691~hmac=cff42f15cc850314192baaffb0c3d484a98d1451846cad157369b91a3acde43b");
- transform: rotateY(240deg) translateZ(430px); }
-.carousel__face:nth-child(8) {
-  background-image: url("https://img.freepik.com/vetores-gratis/fundo-gradiente-radial-azul_1095-56.jpg?w=740&t=st=1669689091~exp=1669689691~hmac=cff42f15cc850314192baaffb0c3d484a98d1451846cad157369b91a3acde43b");
-  transform: rotateY(280deg) translateZ(430px); }
-.carousel__face:nth-child(9) {
-  background-image: url("https://img.freepik.com/vetores-gratis/fundo-gradiente-radial-azul_1095-56.jpg?w=740&t=st=1669689091~exp=1669689691~hmac=cff42f15cc850314192baaffb0c3d484a98d1451846cad157369b91a3acde43b");
-  transform: rotateY(320deg) translateZ(430px); }
-  .carousel__face:nth-child(10) {
-    background-image: url("https://img.freepik.com/vetores-gratis/fundo-gradiente-radial-azul_1095-56.jpg?w=740&t=st=1669689091~exp=1669689691~hmac=cff42f15cc850314192baaffb0c3d484a98d1451846cad157369b91a3acde43b");
-    transform: rotateY(320deg) translateZ(430px); }
-    .carousel__face:nth-child(11) {
-      background-image: url("https://img.freepik.com/vetores-gratis/fundo-gradiente-radial-azul_1095-56.jpg?w=740&t=st=1669689091~exp=1669689691~hmac=cff42f15cc850314192baaffb0c3d484a98d1451846cad157369b91a3acde43b");
-      transform: rotateY(320deg) translateZ(430px); }
-      .carousel__face:nth-child(12) {
-        background-image: url("https://img.freepik.com/vetores-gratis/fundo-gradiente-radial-azul_1095-56.jpg?w=740&t=st=1669689091~exp=1669689691~hmac=cff42f15cc850314192baaffb0c3d484a98d1451846cad157369b91a3acde43b");
-        transform: rotateY(320deg) translateZ(430px); }
-
-
-
-@keyframes rotate360 {
-  from {
-    transform: rotateY(0deg);
-  }
-  to {
-    transform: rotateY(-360deg);
-  }
+.conteudo-principal-escrito-subtitulohelp{
+  font-family: 'Poppins', serif;
+  font-weight: 400;
+  font-size: 25px;
+  color: #000000;
+  margin-left:100px;
 }
 
-.conteudo-principal-escrito-subtitulo {
+
+.conteudo-principal-escrito-subtituloquem {
   font-family: 'Poppins', serif;
   font-weight: 800;
   font-size: 20px;
   margin-left: 100px;
   color: #000000;
-  align-items: inherit;
+  align-items: center;
 }
-.conteudo-principal-imagem{
-  border-radius: 10px;
+.conteudo-principal-escrito-subtitulo {
+  font-family: 'Cinzel', serif;
+  font-weight: 800;
+  font-size: 20px;
+  margin-left: 100px;
+  color: #000000;
+  align-items: center;
 }
+
+.conteudo-principal-imagem {
+  height: 430px;
+  margin-right: 40px;
+  border-radius: 30px;
+}
+.conteudo-principal-imagemv {
+  height: 430px;
+  width: 550px;
+  margin-right: 40px;
+  border-radius: 30px;
+}
+
+
 .conteudo-principal-escrito-botao {
-  background: -webkit-linear-gradient(to left, #30b1ce, #3DA3A8);
-  background: -o-linear-gradient(to left, #2dd1d6, #3DA3A8);
-  background: -moz-linear-gradient(to left, #1a6e82, #1c8b97);
-  background: linear-gradient(to left, #12a7c8, #58b7bc);
+
   width: 180px;
   height: 60px;
   border: none;
@@ -251,50 +214,28 @@ span {
   justify-content: center;
   overflow: hidden;
   margin-left: 100px;
+  font-family: 'Cinzel', serif;
 }
-
+p a{
+  color: #2f9eab;
+}
 a {
   color: #2f9eab;
   text-decoration: none;
   letter-spacing: 1px;
 }
 
-
-
-
-
-.conteudo-principal-escrito-texto {
-  font-family: 'Poppins', serif;
-  font-weight: 800;
-  font-size: 20px;
-  margin-left: 100px;
-  color: #000000;
+.text1{
+  margin-top: 40px;
 }
-.brand{
-	padding: 1px 10%;
-}
-.brand-content{
-	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(150px, auto));
-	gap: 2rem;
-	align-items: center;
-	justify-content: center;
-	gap: 1.3rem;
-	margin-top: 10rem;
-
-}
-.main img{
-	width: 100%;
-	height: auto;
-	opacity: 0.6;
-	transition: all .35s ease;
-	cursor: pointer;
-}
-.main img:hover{
-	opacity: 1;
+.img2{
+  border-radius: 10px;
 }
 
-/* Sixth Button */
+.text2{
+  margin-top: 40px;
+}
+
 
 #button-6 {
   position: relative;
@@ -307,10 +248,7 @@ a {
   transition: all .45s ease-Out;
   color: #2f9eab;
 }
-.quem{
-  margin-left: 30px;
-  border-radius: 30px;
-}
+
 #spin {
   width: 0;
   height: 0;
@@ -345,7 +283,7 @@ a {
   height: 30px;
   width: 100px;
   border: 2px solid #fff;
-  color: #fff;
+  color: #2f9eab;
   text-transform: uppercase;
   text-decoration: none;
   font-size: .7em;
@@ -485,6 +423,32 @@ a {
   margin-right: 40px;
 }
 
+
+.brand{
+	padding: 1px 10%;
+}
+.brand-content{
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(150px, auto));
+	gap: 2rem;
+	align-items: center;
+	justify-content: center;
+	gap: 1.3rem;
+	margin-top: 10rem;
+
+}
+.main img{
+	width: 100%;
+	height: auto;
+	opacity: 0.6;
+	transition: all .35s ease;
+	cursor: pointer;
+}
+.main img:hover{
+	opacity: 1;
+}
+
+
 .conteudo-secundario{
   display: flex;
   justify-content: center;
@@ -496,13 +460,23 @@ a {
 }
 
 .conteudo-secundario-titulo{
-  font-family: 'Cinzel', serif;
+  font-family: 'Cinzel';
   font-weight: 400;
   font-size: 40px;
   color: #2f9eab;
-  align-items: center;
-  margin-left: 55px;
+  margin-left: 100px;
 }
+
+.conteudo-direitos-titulo{
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 40px;
+  color: #2f9eab;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 
 .conteudo-direitos-titulo{
   font-family: 'Cinzel', serif;
@@ -521,10 +495,12 @@ a {
 .cards-direitos{
   display:flex;
   flex-direction: row;
+  font-family: 'Poppins', serif;
+
 }
 
 .card{
-  background-image: radial-gradient(circle at 10% 90%, #4cc5cb, #46cbd2 16.67%, #24c9cc 33.33%, #24c9cc 50%, #24c9cc 66.67%, #24c9cc 83.33%, #24c9cc 100%);;
+  background-image: #2f9eab;
   width: 290px;
   height: 295px;
   margin-left: 25px;
@@ -532,7 +508,7 @@ a {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  color: #ffffff;
+  color: #000000;
   font-size:larger;
   border-radius: 4%;
   box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.56);
@@ -540,7 +516,7 @@ a {
 
 
 .card-direitos1{
-  background-color: rgb(255, 255, 255);
+  background-color: #fff;
   height: 380px;
   margin-left: 30px;
   display: flex;
@@ -554,7 +530,7 @@ a {
 }
 
 .card-direitos2{
-  background-color: rgb(255, 255, 255);
+  background-color: #fff;
   height: 380px;
   margin-left: 30px;
   display: flex;
@@ -568,7 +544,7 @@ a {
 }
 
 .card-direitos3{
-  background-color: rgb(255, 255, 255);
+  background-color: #fff;
   height: 380px;
   margin-left: 30px;
   display: flex;
@@ -582,7 +558,7 @@ a {
 }
 
 .card-direitos4{
-  background-color:  #2f9eab;
+  background-color: #fff;
   height: 380px;
   margin-left: 30px;
   display: flex;
@@ -594,7 +570,16 @@ a {
   border-radius: 5%;
   box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
 }
+.link{
+  margin-left: 190px;
+  font-weight: bolder;
 
+}
+p{
+  color: #000000;
+  font-family: 'Poppins', serif;
+  font-size: medium;
+}
   .card-direitos1 img{
   width: 300px;
   border-radius: 110px;
@@ -618,7 +603,7 @@ a {
 
 .card-direitos h1{
   font-weight: 400;
-  color: #000000;
+  color: #2f9eab;
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -631,15 +616,15 @@ a {
 
 
 
-
 .footer-distributed{
-  background-image: linear-gradient(to bottom, #2f9eab, #2f9eab, #2f9eab);
+  background-color: #2f9eab;
 	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
 	box-sizing: border-box;
 	width: 100%;
 	text-align: left;
 	font: bold 16px sans-serif;
 	padding: 55px 50px;
+  margin: 0px;
 }
 
 .footer-distributed .footer-left,
@@ -676,8 +661,6 @@ a {
 
 .footer-distributed h2 span{
 	color:  rgb(255, 255, 255);
-  font: normal 20px 'Cinzel', serif;
-
 }
 
 /* Footer links */
@@ -687,8 +670,6 @@ a {
 	margin: 20px 0 12px;
 	padding: 0;
   font-size: 15px;
-  font: normal 14px 'Cinzel', serif;
-
 }
 
 .footer-distributed .footer-links a{
@@ -697,6 +678,8 @@ a {
   font-weight:400;
 	text-decoration: none;
 	color:  inherit;
+    font-family: 'Cinzel';
+
 }
 
 .footer-distributed .footer-company-name{
@@ -773,7 +756,7 @@ a {
 .footer-distributed .footer-company-about{
 	line-height: 25px;
 	color:  #ffffff;
-  font-size: 13px;
+	font-size: 13px;
 	font-weight: normal;
 	margin: 0;
 }

@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Poppins:wght@300&display=swap'); 
 * {
   margin: 0;
   padding: 0;
@@ -9,10 +9,10 @@
 body {
   font-size: 100%;
   font-family: 'Cinzel', serif;
-  background-image: linear-gradient(to bottom, #2f9eab, #2f9eab, #2f9eab);
 }
 
-.cabecalho {
+.cabecalho {  background-image: linear-gradient(to bottom, #2f9eab, #2f9eab, #2f9eab);
+
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -70,7 +70,7 @@ body {
 
 .conteudo {
   margin-bottom: 48px;
-  border-top: 0.4px solid #FFF2E7;
+  border-top: 0.4px solid rgb(255, 255, 255);
 }
 
 .conteudo-principal {
@@ -90,7 +90,7 @@ body {
   font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 64px;
-  color: #ffffff;
+  color: #2f9eab;
   margin-left:100px;
   margin-top: 100px;
 }
@@ -177,20 +177,25 @@ span {
 }
 
 .conteudo-principal-escrito-subtitulo {
-  font-family: 'Cinzel', serif;
+  font-family: 'Poppins', serif;
   font-weight: 800;
   font-size: 20px;
   margin-left: 100px;
-  color: #ffffff;
+  color: #000000;
+}
+
+.conteudo-principal-escrito-texto {
+  font-family: 'Poppins', serif;
+  font-weight: 800;
+  font-size: 20px;
+  margin-left: 100px;
+  color: #000000;
 }
 .conteudo-principal-imagem{
   border-radius: 10px;
 }
 .conteudo-principal-escrito-botao {
-  background: -webkit-linear-gradient(to left, #30b1ce, #3DA3A8);
-  background: -o-linear-gradient(to left, #2dd1d6, #3DA3A8);
-  background: -moz-linear-gradient(to left, #1a6e82, #1c8b97);
-  background: linear-gradient(to left, #12a7c8, #58b7bc);
+
   width: 180px;
   height: 60px;
   border: none;
@@ -205,7 +210,7 @@ span {
 }
 
 .conteudo-escrito-botao2{
-  background-color: #ffffff;
+  background-color: #2f9eab;
   width: 140px;
   height: 45px;
   margin-left: 698px;
@@ -239,9 +244,9 @@ span {
   display: inline-flex;
   height: 90px;
   width: 250px;
-  border: 2px solid #ffffff;
+  border: 2px solid #2f9eab;
   margin: 60px 40px 40px 20px;
-  color: #008cea;
+  color: #fff;
   text-transform: uppercase;
   text-decoration: none;
   font-size: .9em;
@@ -253,13 +258,38 @@ span {
 }
 
 a {
-  color: #ffffff;
+  color: #2f9eab;
   text-decoration: none;
   letter-spacing: 1px;
 }
 
 
 
+
+
+.brand{
+	padding: 1px 10%;
+}
+.brand-content{
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(150px, auto));
+	gap: 2rem;
+	align-items: center;
+	justify-content: center;
+	gap: 1.3rem;
+	margin-top: 10rem;
+
+}
+.main img{
+	width: 100%;
+	height: auto;
+	opacity: 0.6;
+	transition: all .35s ease;
+	cursor: pointer;
+}
+.main img:hover{
+	opacity: 1;
+}
 
 /* Sixth Button */
 
@@ -272,8 +302,11 @@ a {
 #button-6 a {
   position: relative;
   transition: all .45s ease-Out;
+  color: #2f9eab;
 }
-
+.quem{
+  margin-left: 30px;
+}
 #spin {
   width: 0;
   height: 0;
@@ -292,12 +325,12 @@ a {
   opacity: 1;
   left: -30px;
   top: -20px;
-  background: #ffffff;
+  background: #2f9eab;
   transform: rotate(80deg);
 }
 
 #button-6:hover a {
-  color: #177986;
+  color: #fff;
   font-weight: bold;
 }
 
@@ -307,8 +340,8 @@ a {
   display: inline-flex;
   height: 30px;
   width: 100px;
-  border: 2px solid #ffffff;
-  color: #008cea;
+  border: 2px solid #fff;
+  color: #fff;
   text-transform: uppercase;
   text-decoration: none;
   font-size: .7em;
@@ -319,7 +352,7 @@ a {
 }
 
 a {
-  color: #ffffff;
+  color: #fff;
   text-decoration: none;
   letter-spacing: 1px;
   font-weight: bold;
@@ -338,6 +371,7 @@ a {
 #button-2 a {
   position: relative;
   transition: all .45s ease-Out;
+  color: #fff;
 }
 
 #spin2 {
@@ -358,12 +392,12 @@ a {
   opacity: 1;
   left: -30px;
   top: -20px;
-  background: #ffffff;
+  background: #fff;
   transform: rotate(80deg);
 }
 
 #button-2:hover a {
-  color: #177986;
+  color: #2f9eab;
   font-weight: bold;
 }
 
@@ -374,8 +408,8 @@ a {
   display: inline-flex;
   height: 30px;
   width: 100px;
-  border: 2px solid #ffffff;
-  color: #008cea;
+  border: 2px solid #fff;
+  color: #2f9eab;
   text-transform: uppercase;
   text-decoration: none;
   font-size: .7em;
@@ -386,14 +420,16 @@ a {
 }
 
 a {
-  color: #ffffff;
+  color: #fff;
   text-decoration: none;
   letter-spacing: 1px;
 }
 
 
 
-
+.quem{
+  border-radius: 30px;
+}
 
 #button-3 {
   position: relative;
@@ -404,6 +440,7 @@ a {
 #button-3 a {
   position: relative;
   transition: all .45s ease-Out;
+  color: #fff;
 }
 
 #spin3 {
@@ -424,12 +461,12 @@ a {
   opacity: 1;
   left: -30px;
   top: -0px;
-  background: #ffffff;
+  background: #fff;
   transform: rotate(80deg);
 }
 
 #button-3:hover a {
-  color: #177986;
+  color: #2f9eab;
   font-weight: bold;
 }
 
@@ -457,17 +494,19 @@ a {
 }
 
 .conteudo-secundario-titulo{
-  font-family: 'Poppins', serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 40px;
-  color: #ffffff;
+  color: #2f9eab;
+  align-items: center;
+  margin-left: 55px;
 }
 
 .conteudo-direitos-titulo{
-  font-family: 'Poppins', serif;
+  font-family: 'Cinzel', serif;
   font-weight: 400;
   font-size: 40px;
-  color: #ffffff;
+  color: #2f9eab;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -541,7 +580,7 @@ a {
 }
 
 .card-direitos4{
-  background-color: rgb(255, 255, 255);
+  background-color:  #2f9eab;
   height: 380px;
   margin-left: 30px;
   display: flex;
@@ -591,6 +630,8 @@ a {
 
 
 .footer-distributed{
+  background-image: linear-gradient(to bottom, #2f9eab, #2f9eab, #2f9eab);
+
 	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
 	box-sizing: border-box;
 	width: 100%;

@@ -1,10 +1,10 @@
 /*
   Variáveis
 */
-@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Elsie&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cambay:ital,wght@1,700&family=Cinzel&family=Poppins:wght@300&display=swap');
 :root {
-  --main-color: #348695;
+  --main-color: #2f9eab;
   --link-color: #ffffff;
   --text1: #999999;
   --highligth-text: #ffffff;
@@ -21,7 +21,7 @@
   justify-content: space-around;
   padding: 24px;
   list-style-type: none;
-  background-image: radial-gradient(circle at 100% 90%, #348695, #348695 16.67%, #348695 33.33%, #348695 50%, #348695 66.67%, #348695 83.33%, #367281 100%);
+  background-image: radial-gradient(circle at 100% 90%, #2f9eab, #2f9eab 16.67%, #2f9eab 33.33%, #2f9eab 50%, #2f9eab 66.67%, #2f9eab 83.33%, #2f9eab 100%);
 
 }
 
@@ -240,7 +240,9 @@ a {
   position: absolute;
   transition: all .5s ease-Out;
 }
-
+.login-form-btn a{
+  color: #fff;
+}
 #button-3:hover #spin {
   width: 200%;
   height: 500%;
@@ -534,7 +536,7 @@ input[type=checkbox]:checked:after {
   margin-left: 110px;
 }
 .footer-distributed{
-  background-color: #2e8ca8;
+  background-color: #2f9eab;
     box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
     box-sizing: border-box;
     width: 100%;
@@ -613,7 +615,7 @@ input[type=checkbox]:checked:after {
 }
 
 .footer-distributed .footer-center i{
-    background-color:  #33383b;
+    background-color:  #2f9eab;
     color: #ffffff;
     font-size: 25px;
     width: 38px;
