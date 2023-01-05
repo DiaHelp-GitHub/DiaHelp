@@ -78,7 +78,7 @@
 <br>
 <a href="https://www.linkedin.com/in/núbia-reis-005b92207/"><img src="https://media.discordapp.net/attachments/1015349601852739677/1033585995947458622/Imagem7.jpg" width="200px"></a><p> Núbia Reis</p>
 <a href="https://www.linkedin.com/in/ana-c-9638b21aa/"><img src="https://media.discordapp.net/attachments/1015349601852739677/1033585996157165618/Imagem6.jpg" width="200px"></a><p> Ana Critina Jesus</p>
-<a href="https://www.linkedin.com/in/guilherme-roncon-gonçalves/"><img src="https://media.discordapp.net/attachments/1015349601852739677/1033587468890558534/Imagem8.jpg" width="200px"></a><p> Guilherme Roncon</p>
+
 </div>
 
 ##
